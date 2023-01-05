@@ -1,0 +1,6 @@
+name: MindGames
+version: '${project.version}'
+main: me.fuzy_boi.Main
+api-version: 1.19
+authors: [ Fuzy_Boi ]
+description: Do not believe what you see
